@@ -18,6 +18,8 @@ This script is written by myself and should not be sold for commercial use
 /clear  --clear bill
 /pay    --send bill
 ```
+
+## Setting
 ```
 Config.Basic    --Basic charge
 Config.KMprice  --Charge per kilometer
